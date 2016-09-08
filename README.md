@@ -4,7 +4,7 @@ Forked from https://github.com/bitbackofen/Subversion-Integration-for-Mattermost
 
 Thanks @Elpatron68 for your very good job !
 
-Base installation information can be found on the original repository and adapted for linuxÒ
+Base installation information can be found on the original repository and adapted for linux
 
 The python part is untouched !
 
